@@ -16,9 +16,8 @@
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,nodejs,react,nextjs,tailwind,bootstrap,mongodb" /><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" /><br>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,anaconda,pandas" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,nodejs,react,nextjs,mongodb" /><br>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,anaconda,pandas,vscode" />
 </p>
 
 ---
