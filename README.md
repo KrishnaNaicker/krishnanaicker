@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&pause=1000&color=00FF41&center=true&vCenter=true&width=450&lines=Hey+There!+I'm+Krishna+Naicker" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&pause=1000&color=00FF41&center=true&vCenter=true&width=450&lines=Hello!+There!+I'm+Krishna+Naicker" />
 </h1>
 
 ---
@@ -58,7 +58,5 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=KrishnaNaicker&icon=0&color=0" />
-  <br>
   <sub><code>Thank you for visiting!</code></sub>
 </p>
