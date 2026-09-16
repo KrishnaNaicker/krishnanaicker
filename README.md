@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-- 🧑‍💻 Third Year Undergrad | ML & AI Enthusiast | Full Stack Explorer  
+- 🧑‍💻 Final Year Undergrad | ML & AI Enthusiast | Full Stack Explorer  
 - 🧠 Currently exploring: `Python 🐍`, `AI Agents 🤖`  
 - 💼 Focusing on: Machine Learning, Agentic AI, DSA & Scalable Web Dev  
 - ⚙️ Philosophy: Code to create, learn to scale, build to impact.  
