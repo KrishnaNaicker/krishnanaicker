@@ -1,38 +1,44 @@
-```
-┬┌─┬─┐┬┌─┐┬ ┬┌┐┌┌─┐  ┌┐┌┌─┐┬┌─┐┬┌─┌─┐┬─┐
-├┴┐├┬┘│└─┐├─┤│││├─┤  │││├─┤││  ├┴┐├┤ ├┬┘
-┴ ┴┴└─┴└─┘┴ ┴┘└┘┴ ┴  ┘└┘┴ ┴┴└─┘┴ ┴└─┘┴└─
-ai engineer · agents that ship · pune
-```
+<img src="./assets/header.svg" width="100%" alt="krishna naicker: ai engineer, building an ai app builder" />
 
-```
-~ $ krishna run --goal "agents people can trust"
+## Mostly agents, lately.
 
-  [plan]    orkus · loom · aceso · maya
-  [build]   python · typescript · fastapi · react · langgraph
-            postgres · redis · celery · pinecone · aws
-  [verify]  282 tests · 12-check gate · hidden-test evals
-  [ship]    orkus → production · sole engineer · allcognix ai
+I build software that does real work on its own,  
+and the quieter machinery that checks whether it actually did.
 
-  ── gate ──────────────────────────────────────────────
-  model says: done
-  harness says: run the tests first
-  tests: passed
+Right now I'm building an AI app builder at AllCognix AI: prompt in, full-stack app out.  
+Before that, I was the sole engineer on Orkus, our agent orchestration platform.  
+Final year of AI & Data Science, Pune.
 
-  status: running · since 2023 · cost: mostly coffee
-```
+---
 
-**[orkus](https://agents.allcognix.com)** · no-code agents, workflows, rag. 130+ endpoints, one engineer.  
+> The model proposes. The harness decides.
+
+---
+
+### Things that work
+
+**[Orkus](https://agents.allcognix.com)** · no-code agents, workflows and RAG. 130+ endpoints, one engineer.  
 **[loom](https://github.com/KrishnaNaicker/loom)** · a coding harness where the model doesn't get to say "done".  
-**aceso** · self-healing web apps. nothing ships past twelve checks and a human. private.  
-**maya** · a kiosk you talk to. on-device whisper, 9.6% wer, prices by code.
+**Aceso** · self-healing web apps. Nothing ships past twelve checks and a human. Private.  
+**Maya** · a kiosk you talk to. On-device Whisper, 9.6% WER, prices computed by code.
 
-```
-  idea ──▶ plan ──▶ agent ──▶ verify ──▶ ship
-                     ▲          │
-                     └── fix ◀──┘
-```
+<img src="./assets/loop.svg" width="560" alt="idea, plan, agent, verify, ship, with a fix loop from verify back to agent" />
 
-claude for startups (allcognix ai) · odoo hackathon finalist, 85/857 · pragyantra, 3rd/130+
+---
 
-> [krishnanaicker.me](https://krishnanaicker.me) · [linkedin](https://www.linkedin.com/in/krishnanaicker29) · [x](https://x.com/NaickerKum48061) · [email](mailto:krishnanaicker2005@gmail.com)
+### Stack
+
+Python · TypeScript · SQL  
+FastAPI · Node · React · Postgres · MongoDB · Redis · Celery  
+LangGraph · RAG · Pinecone · LLM APIs · Playwright · Docker · AWS
+
+### Recently
+
+Accepted into Anthropic's Claude for Startups with AllCognix AI.  
+Odoo Hackathon 2026 finalist, 85th of 857. 3rd of 130+ at Pragyantra, as team lead.
+
+---
+
+[krishnanaicker.me](https://krishnanaicker.me) · [LinkedIn](https://www.linkedin.com/in/krishnanaicker29) · [X](https://x.com/NaickerKum48061) · [Email](mailto:krishnanaicker2005@gmail.com)
+
+> README passed review. The harness was lenient.
