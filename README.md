@@ -1,4 +1,4 @@
-<img src="./assets/header.svg" width="100%" alt="krishna naicker: ai engineer, building an ai app builder" />
+<img src="./assets/name.svg" width="100%" alt="krishna naicker: ai engineer, building an ai app builder" />
 
 ## Mostly agents, lately.
 
