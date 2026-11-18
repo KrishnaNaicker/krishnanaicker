@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="290" viewBox="0 0 860 290" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace">
+<defs>
+<filter id="glow" x="-10%" y="-40%" width="120%" height="180%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="type"><rect x="36" y="40" height="60" width="0"><animate attributeName="width" values="0.0;22.8;45.6;68.4;91.2;114.0;136.8;159.6;182.4;205.2;228.0;250.8;273.6;296.4;319.2;342.0" keyTimes="0.000;0.067;0.133;0.200;0.267;0.333;0.400;0.467;0.533;0.600;0.667;0.733;0.800;0.867;0.933;1.000" calcMode="discrete" dur="1.3s" begin="0.3s" fill="freeze"/></rect></clipPath>
+</defs>
+<rect x="1" y="1" width="858" height="288" rx="12" fill="#0B0F0D" stroke="#1F2A24"/>
+<circle cx="26" cy="22" r="5" fill="#FF5F57"/><circle cx="44" cy="22" r="5" fill="#FEBC2E"/><circle cx="62" cy="22" r="5" fill="#28C840"/>
+<text x="430" y="26" fill="#5C8F72" font-size="12" text-anchor="middle">~/krishna — zsh</text>
+<g clip-path="url(#type)" filter="url(#glow)"><text x="36" y="88" fill="#2BE37A" font-size="38" font-weight="700">krishna naicker</text></g>
+<rect x="386.0" y="60" width="16" height="32" fill="#2BE37A" opacity="0">
+<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.01;0.5;0.51;1" dur="1.1s" begin="1.6s" repeatCount="indefinite"/></rect>
+<text x="36" y="126" fill="#7FD9A5" font-size="17" font-weight="400" opacity="0" xml:space="preserve">ai engineer · building an ai app builder · pune<animate attributeName="opacity" from="0" to="1" begin="1.5s" dur="0.35s" fill="freeze"/></text>
+<line x1="36" y1="148" x2="824" y2="148" stroke="#1F2A24"/>
+<text x="36" y="178" fill="#7FD9A5" font-size="16" font-weight="400" opacity="0" xml:space="preserve">$ krishna run --goal &quot;agents people can trust&quot;<animate attributeName="opacity" from="0" to="1" begin="1.9s" dur="0.35s" fill="freeze"/></text>
+<text x="36" y="206" fill="#2BE37A" font-size="16" font-weight="400" opacity="0" xml:space="preserve">  [build]   ai app builder · prompt in, full-stack app out<animate attributeName="opacity" from="0" to="1" begin="2.35s" dur="0.35s" fill="freeze"/></text>
+<text x="36" y="234" fill="#2BE37A" font-size="16" font-weight="400" opacity="0" xml:space="preserve">  [verify]  the model says done. the harness checks.<animate attributeName="opacity" from="0" to="1" begin="2.8s" dur="0.35s" fill="freeze"/></text>
+<text x="36" y="262" fill="#5C8F72" font-size="16" font-weight="400" opacity="0" xml:space="preserve">  [status]  running · since 2023 · cost: mostly coffee<animate attributeName="opacity" from="0" to="1" begin="3.25s" dur="0.35s" fill="freeze"/></text>
+</svg>
