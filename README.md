@@ -1,62 +1,38 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hello+there!+I'm+Krishna+Naicker" />
-</h1>
+```
+┬┌─┬─┐┬┌─┐┬ ┬┌┐┌┌─┐  ┌┐┌┌─┐┬┌─┐┬┌─┌─┐┬─┐
+├┴┐├┬┘│└─┐├─┤│││├─┤  │││├─┤││  ├┴┐├┤ ├┬┘
+┴ ┴┴└─┴└─┘┴ ┴┘└┘┴ ┴  ┘└┘┴ ┴┴└─┘┴ ┴└─┘┴└─
+ai engineer · agents that ship · pune
+```
 
+```
+~ $ krishna run --goal "agents people can trust"
 
-### 👨‍💻 About Me
+  [plan]    orkus · loom · aceso · maya
+  [build]   python · typescript · fastapi · react · langgraph
+            postgres · redis · celery · pinecone · aws
+  [verify]  282 tests · 12-check gate · hidden-test evals
+  [ship]    orkus → production · sole engineer · allcognix ai
 
-- 🧑‍💻 Final Year Undergrad | ML & AI Enthusiast | Full Stack Explorer  
-- 🧠 Currently exploring: `Python 🐍`, `AI Agents 🤖`  
-- 💼 Focusing on: Machine Learning, Agentic AI, DSA & Scalable Web Dev  
-- ⚙️ Philosophy: Code to create, learn to scale, build to impact.  
-- 📊 Fun fact: I treat every commit like a step toward innovation.
+  ── gate ──────────────────────────────────────────────
+  model says: done
+  harness says: run the tests first
+  tests: passed
 
----
+  status: running · since 2023 · cost: mostly coffee
+```
 
-### ⚙️ Tech Stack
+**[orkus](https://agents.allcognix.com)** · no-code agents, workflows, rag. 130+ endpoints, one engineer.  
+**[loom](https://github.com/KrishnaNaicker/loom)** · a coding harness where the model doesn't get to say "done".  
+**aceso** · self-healing web apps. nothing ships past twelve checks and a human. private.  
+**maya** · a kiosk you talk to. on-device whisper, 9.6% wer, prices by code.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,nodejs,react,nextjs,mongodb" /><br>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,anaconda,pandas" />
-</p>
+```
+  idea ──▶ plan ──▶ agent ──▶ verify ──▶ ship
+                     ▲          │
+                     └── fix ◀──┘
+```
 
----
+claude for startups (allcognix ai) · odoo hackathon finalist, 85/857 · pragyantra, 3rd/130+
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KrishnaNaicker&theme=algolia&show_icons=true&count_private=true" width="430" />
-</p>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=KrishnaNaicker&theme=algolia" width="430"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaNaicker&layout=compact&theme=algolia" width="430" />
-</p>
-
----
-
-### ✍️ Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-### 🌐 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/krishnanaicker29"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://x.com/NaickerKum48061"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://www.instagram.com/krishna_naicker/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="mailto:krishnanaicker2005@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KrishnaNaicker&style=flat-square&color=00FF41" alt="Visitor Count"/>
-  <br>
-  <sub><code>Thank you for visiting!</code></sub>
-</p>
+> [krishnanaicker.me](https://krishnanaicker.me) · [linkedin](https://www.linkedin.com/in/krishnanaicker29) · [x](https://x.com/NaickerKum48061) · [email](mailto:krishnanaicker2005@gmail.com)
