@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=KrishnaNaicker&color=22C768&style=flat-square&label=profile+views)
+
 <img src="./assets/name.svg" width="100%" alt="krishna naicker: ai engineer, building an ai app builder" />
 
 ## Mostly agents, lately.
